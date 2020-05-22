@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,====== = 未分组 = ======
-http://3/3.m3u8
 #EXTINF:-1 ,CCTV1HD
 http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 ,CCTV2HD
