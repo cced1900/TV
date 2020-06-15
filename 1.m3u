@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 ,2020.05.19
+#EXTINF:-1 ,贵州公共频道
+http://39.135.16.150:6610/PLTV/88888888/224/3221225682//index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州公共频道
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gz2
 #EXTINF:-1 ,CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 ,CCTV-1高清8M
